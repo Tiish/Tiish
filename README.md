@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Tiish
-- 👀 I’m interested in HTML, PY, DRUPAL, CSS, BOOTSTRAP
+- 👀 I’m interested in Html, py, drupal, javascript, bootstrap
 - 🌱 I’m currently learning Ruby
 - 💞️ I’m looking to collaborate on drupal, python, java, css
 - 📫 How to reach me @ rickifred5@gmail.com
